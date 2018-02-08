@@ -1,0 +1,2 @@
+webpackJsonp([6],{"9BEE":function(e,t,n){"use strict";Object.defineProperty(t,"__esModule",{value:!0});var r={render:function(){var e=this.$createElement,t=this._self._c||e;return t("div",[t("el-card",[t("p",[this._v("order")])])],1)},staticRenderFns:[]};var c=n("VU/8")({},r,!1,function(e){n("qft9")},"data-v-5e6c3c5f",null);t.default=c.exports},qft9:function(e,t){}});
+//# sourceMappingURL=6.a27e9e6c166311742d5f.js.map
