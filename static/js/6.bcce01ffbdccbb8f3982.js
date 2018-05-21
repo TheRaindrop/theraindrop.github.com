@@ -1,2 +1,0 @@
-webpackJsonp([6],{gYmn:function(e,t,n){"use strict";Object.defineProperty(t,"__esModule",{value:!0});var r={render:function(){var e=this.$createElement,t=this._self._c||e;return t("div",[t("el-card",[t("p",[this._v("机票交互页面")])])],1)},staticRenderFns:[]};var i=n("VU/8")({},r,!1,function(e){n("i9/S")},"data-v-762ebdd2",null);t.default=i.exports},"i9/S":function(e,t){}});
-//# sourceMappingURL=6.bcce01ffbdccbb8f3982.js.map
